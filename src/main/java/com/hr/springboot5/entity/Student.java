@@ -28,6 +28,7 @@ public class Student{
     public void setName(String name) {
         this.name = name == null ? null : name.trim();
     }
+    //卧槽
 
     public String getSex() {
         return sex;
